@@ -1,0 +1,255 @@
+ID
+Area (Land)
+Area (Water)
+Total Population
+Total Population
+Population Density (Per Sq. Mile)
+Area (Land)
+Total Population:
+Total Population: Male
+Total Population: Female
+% Total Population: Male
+% Total Population: Female
+Total Population:
+Total Population: Under 5 Years
+Total Population: 5 to 9 Years
+Total Population: 10 to 14 Years
+Total Population: 15 to 17 Years
+Total Population: 18 to 24 Years
+Total Population: 25 to 34 Years
+Total Population: 35 to 44 Years
+Total Population: 45 to 54 Years
+Total Population: 55 to 64 Years
+Total Population: 65 to 74 Years
+Total Population: 75 to 84 Years
+Total Population: 85 Years and Over
+% Total Population: Under 5 Years
+% Total Population: 5 to 9 Years
+% Total Population: 10 to 14 Years
+% Total Population: 15 to 17 Years
+% Total Population: 18 to 24 Years
+% Total Population: 25 to 34 Years
+% Total Population: 35 to 44 Years
+% Total Population: 45 to 54 Years
+% Total Population: 55 to 64 Years
+% Total Population: 65 to 74 Years
+% Total Population: 75 to 84 Years
+% Total Population: 85 Years and Over
+Median Age:
+Median Age: Male Population
+Median Age: Female Population
+Total Population:
+Total Population: White Alone
+Total Population: Black or African American Alone
+Total Population: American Indian and Alaska Native Alone
+Total Population: Asian Alone
+Total Population: Native Hawaiian and Other Pacific Islander Alone
+Total Population: Some Other Race Alone
+Total Population: Two or More Races
+% Total Population: White Alone
+% Total Population: Black or African American Alone
+% Total Population: American Indian and Alaska Native Alone
+% Total Population: Asian Alone
+% Total Population: Native Hawaiian and Other Pacific Islander Alone
+% Total Population: Some Other Race Alone
+% Total Population: Two or More Races
+Total Population
+Total Population: Not Hispanic or Latino
+Total Population: Not Hispanic or Latino: White Alone
+Total Population: Not Hispanic or Latino: Black or African American Alone
+Total Population: Not Hispanic or Latino: American Indian and Alaska Native Alone
+Total Population: Not Hispanic or Latino: Asian Alone
+Total Population: Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander Alone
+Total Population: Not Hispanic or Latino: Some Other Race Alone
+Total Population: Not Hispanic or Latino: Two or More Races
+Total Population: Hispanic or Latino
+Total Population: Hispanic or Latino: White Alone
+Total Population: Hispanic or Latino: Black or African American Alone
+Total Population: Hispanic or Latino: American Indian and Alaska Native Alone
+Total Population: Hispanic or Latino: Asian Alone
+Total Population: Hispanic or Latino: Native Hawaiian and Other Pacific Islander Alone
+Total Population: Hispanic or Latino: Some Other Race Alone
+Total Population: Hispanic or Latino: Two or More Races
+% Total Population: Not Hispanic or Latino
+% Total Population: Not Hispanic or Latino: White Alone
+% Total Population: Not Hispanic or Latino: Black or African American Alone
+% Total Population: Not Hispanic or Latino: American Indian and Alaska Native Alone
+% Total Population: Not Hispanic or Latino: Asian Alone
+% Total Population: Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander Alone
+% Total Population: Not Hispanic or Latino: Some Other Race Alone
+% Total Population: Not Hispanic or Latino: Two or More Races
+% Total Population: Hispanic or Latino
+% Total Population: Hispanic or Latino: White Alone
+% Total Population: Hispanic or Latino: Black or African American Alone
+% Total Population: Hispanic or Latino: American Indian and Alaska Native Alone
+% Total Population: Hispanic or Latino: Asian Alone
+% Total Population: Hispanic or Latino: Native Hawaiian and Other Pacific Islander Alone
+% Total Population: Hispanic or Latino: Some Other Race Alone
+% Total Population: Hispanic or Latino: Two or More Races
+Households:
+Households: Family Households
+Households: Family Households: Married-Couple Family
+Households: Family Households: Other Family
+"Households: Family Households: Other Family: Male Householder No Wife Present"
+"Households: Family Households: Other Family: Female Householder No Husband Present"
+Households: Nonfamily Households
+Households: Nonfamily Households: Male Householder
+Households: Nonfamily Households: Female Householder
+% Households: Family Households
+% Households: Family Households: Married-Couple Family
+% Households: Family Households: Other Family
+"% Households: Family Households: Other Family: Male Householder No Wife Present"
+"% Households: Family Households: Other Family: Female Householder No Husband Present"
+% Households: Nonfamily Households
+% Households: Nonfamily Households: Male Householder
+% Households: Nonfamily Households: Female Householder
+Population 15 Years and Over:
+Population 15 Years and Over: Never Married
+Population 15 Years and Over: Now Married (Not Including Separated)
+Population 15 Years and Over: Separated
+Population 15 Years and Over: Widowed
+Population 15 Years and Over: Divorced
+% Population 15 Years and Over: Never Married
+% Population 15 Years and Over: Now Married (Not Including Separated)
+% Population 15 Years and Over: Separated
+% Population 15 Years and Over: Widowed
+% Population 15 Years and Over: Divorced
+Population 25 Years and Over:
+Population 25 Years and Over: Less than High School
+Population 25 Years and Over: High School Graduate (Includes Equivalency)
+Population 25 Years and Over: Some College
+Population 25 Years and Over: Bachelor's Degree
+Population 25 Years and Over: Master's Degree
+Population 25 Years and Over: Professional School Degree
+Population 25 Years and Over: Doctorate Degree
+% Population 25 Years and Over: Less than High School
+% Population 25 Years and Over: High School Graduate (Includes Equivalency)
+% Population 25 Years and Over: Some College
+% Population 25 Years and Over: Bachelor's Degree
+% Population 25 Years and Over: Master's Degree
+% Population 25 Years and Over: Professional School Degree
+% Population 25 Years and Over: Doctorate Degree
+Civilian Population 16 to 19 Years:
+"Civilian Population 16 to 19 Years: Not High School Graduate Not Enrolled (Dropped Out)"
+"Civilian Population 16 to 19 Years: High School Graduate or Enrolled (In School)"
+"% Civilian Population 16 to 19 Years: Not High School Graduate Not Enrolled (Dropped Out)"
+"% Civilian Population 16 to 19 Years: High School Graduate or Enrolled (In School)"
+Median Household Income (In 2019 Inflation Adjusted Dollars)
+Housing Units
+Occupied Housing Units:
+Occupied Housing Units: Owner Occupied
+Occupied Housing Units: Renter Occupied
+% Occupied Housing Units: Owner Occupied
+% Occupied Housing Units: Renter Occupied
+Housing Units:
+Housing Units: Occupied
+Housing Units: Vacant
+% Housing Units: Occupied
+% Housing Units: Vacant
+Vacant Housing Units:
+Vacant Housing Units: for Rent
+Vacant Housing Units: for Sale Only
+Vacant Housing Units: Other Vacant
+% Vacant Housing Units: for Rent
+% Vacant Housing Units: for Sale Only
+% Vacant Housing Units: Other Vacant
+Housing Units:
+Housing Units: 1 Unit
+"Housing Units: 1 Unit: 1 Detached"
+"Housing Units: 1 Unit: 1 Attached"
+Housing Units: 2
+Housing Units: 3 or 4
+Housing Units: 5 to 9
+Housing Units: 10 to 19
+Housing Units: 20 to 49
+Housing Units: 50 or More
+Housing Units: Mobile Home
+"Housing Units: Boat Rv Van Etc."
+% Housing Units: 1 Unit
+"% Housing Units: 1 Unit: 1 Detached"
+"% Housing Units: 1 Unit: 1 Attached"
+% Housing Units: 2
+% Housing Units: 3 or 4
+% Housing Units: 5 to 9
+% Housing Units: 10 to 19
+% Housing Units: 20 to 49
+% Housing Units: 50 or More
+% Housing Units: Mobile Home
+"% Housing Units: Boat Rv Van Etc."
+Median Year Structure Built
+Occupied Housing Units:
+"Occupied Housing Units: Gas (Utility Bottled Tank or Lp Gas)"
+Occupied Housing Units: Electricity
+"Occupied Housing Units: Fuel Oil Kerosene Etc."
+"Occupied Housing Units: Coal Coke or Wood"
+Occupied Housing Units: Solar Energy
+Occupied Housing Units: Other Fuel
+Occupied Housing Units: No Fuel Used
+"% Occupied Housing Units: Gas (Utility Bottled Tank or Lp Gas)"
+% Occupied Housing Units: Electricity
+"% Occupied Housing Units: Fuel Oil Kerosene Etc."
+"% Occupied Housing Units: Coal Coke or Wood"
+% Occupied Housing Units: Solar Energy
+% Occupied Housing Units: Other Fuel
+% Occupied Housing Units: No Fuel Used
+Median Value
+Median Gross Rent
+Median Gross Rent as a Percentage of Household  Income in the Past 12 Months (Dollars)
+Median Selected Monthly Owner Costs as a Percentage of Household Income:
+Median Selected Monthly Owner Costs as a Percentage Of&nbsp; Household Income: Housing Units with a Mortgage
+Median Selected Monthly Owner Costs as a Percentage Of&nbsp; Household Income: Housing Units Without a Mortgage
+Families:
+Families: Income Below Poverty Level
+Families: Income Below Poverty Level: Married Couple Family: with Related Child Living  Bellow Poverty Level
+Families: Income Below Poverty Level: Married Couple Family: No Related Children Under 18 Years
+"Families: Income Below Poverty Level: Male Householder No Wife Present"
+"Families: Income Below Poverty Level: Male Householder No Wife Present: with Related Children Under 18 Years"
+"Families: Income Below Poverty Level: Male Householder No Wife Present: No Related Children Under 18 Years"
+"Families: Income Below Poverty Level: Female Householder No Husband Present"
+"Families: Income Below Poverty Level: Female Householder No Husband Present: with Related Children Under 18 Years"
+"Families: Income Below Poverty Level: Female Householder No Husband Present: No Related Children Under 18 Years"
+Families: Income At or Above Poverty Level
+% Families: Income Below Poverty Level
+% Families: Income Below Poverty Level: Married Couple Family: with Related Child Living  Bellow Poverty Level
+% Families: Income Below Poverty Level: Married Couple Family: No Related Children Under 18 Years
+"% Families: Income Below Poverty Level: Male Householder No Wife Present"
+"% Families: Income Below Poverty Level: Male Householder No Wife Present: with Related Children Under 18 Years"
+"% Families: Income Below Poverty Level: Male Householder No Wife Present: No Related Children Under 18 Years"
+"% Families: Income Below Poverty Level: Female Householder No Husband Present"
+"% Families: Income Below Poverty Level: Female Householder No Husband Present: with Related Children Under 18 Years"
+"% Families: Income Below Poverty Level: Female Householder No Husband Present: No Related Children Under 18 Years"
+% Families: Income At or Above Poverty Level
+Population for Whom Poverty Status Is Determined:
+Population for Whom Poverty Status Is Determined: Under .50
+Population for Whom Poverty Status Is Determined: .50 to .74
+Population for Whom Poverty Status Is Determined: .75 to .99
+Population for Whom Poverty Status Is Determined: 1.00 to 1.49
+Population for Whom Poverty Status Is Determined: 1.50 to 1.99
+Population for Whom Poverty Status Is Determined: 2.00 and Over
+% Population for Whom Poverty Status Is Determined: Under .50
+% Population for Whom Poverty Status Is Determined: .50 to .74
+% Population for Whom Poverty Status Is Determined: .75 to .99
+% Population for Whom Poverty Status Is Determined: 1.00 to 1.49
+% Population for Whom Poverty Status Is Determined: 1.50 to 1.99
+% Population for Whom Poverty Status Is Determined: 2.00 and Over
+Population for Whom Poverty Status Is Determined:
+Population for Whom Poverty Status Is Determined: Under 1.00 (Doing Poorly)
+Population for Whom Poverty Status Is Determined: 1.00 to 1.99 (Struggling)
+Population for Whom Poverty Status Is Determined: Under 2.00 (Poor or Struggling)
+Population for Whom Poverty Status Is Determined: 2.00 and Over (Doing Ok)
+% Population for Whom Poverty Status Is Determined: Under 1.00 (Doing Poorly)
+% Population for Whom Poverty Status Is Determined: 1.00 to 1.99 (Struggling)
+% Population for Whom Poverty Status Is Determined: Under 2.00 (Poor or Struggling)
+% Population for Whom Poverty Status Is Determined: 2.00 and Over (Doing Ok)
+Total Population:
+Total Population: Native Born
+Total Population: Foreign Born
+Total Population: Foreign Born: Naturalized Citizen
+Total Population: Foreign Born: Not a Citizen
+% Total Population: Native Born
+% Total Population: Foreign Born
+% Total Population: Foreign Born: Naturalized Citizen
+% Total Population: Foreign Born: Not a Citizen
+% Workers 16 Years and Over: Car/Truck/Van
+% Workers 16 Years and Over: Bicycle
+% Workers 16 Years and Over: Walked
