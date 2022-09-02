@@ -2,6 +2,12 @@
 
 Atlanta Probabilistic Citizen Demographic Assignment and Multi-Modal Access Simulation
 
+This project was too large for Github. It can be downloaded from the link below:
+
+https://drive.google.com/file/d/1mdVUgur7bvi7v1OxgADYEqsIN60OMsjm/view
+
+
+
 ## Authors
 
 @ Noah Gans
